@@ -3,15 +3,16 @@ Programa para extraer información de uso de la Rockola Central Vista.
 
 Sofware Linux hecho en Qt (c++) para leer la base de datos de las rockolas Central Vista, y estraer estos datos:
 
-Top, canciones más tocadas.
-Listar generos.
-Listar artistas.
-Crear una lista de archivos nunca tocados.
+1. Top, canciones más tocadas.
+2. Listar generos menos usados.
+3. Listar artistas menos usados.
+4. Crear una lista de archivos nunca tocados.
+
 Requisitos:
 
-Qt Creator 5.2 o Qt 5.9.5
-Paquete mdbtools $sudo apt install mdbtools
-QCustomPlot 1 https://www.qcustomplot.com/index.php/download para las gráficas.
+1. Qt Creator 5.2 o Qt 5.9.5
+2. Paquete mdbtools *$sudo apt install mdbtools*
+3. QCustomPlot 1 https://www.qcustomplot.com/index.php/download para las gráficas.
 
-Probado exitosamente en Ubuntu 18.04
+Probado exitosamente en `Ubuntu 18.04`
 
