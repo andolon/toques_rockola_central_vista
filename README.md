@@ -10,7 +10,7 @@ Sofware Linux hecho en Qt (c++) para leer la base de datos de las rockolas Centr
 3. Listar artistas menos usados.
 4. Crear una lista de archivos nunca tocados.
 
-![Graficas](https://octodex.github.com/images/https://github.com/andolon/toques_rockola_central_vista/blob/master/graficas.png?raw=true)
+![Graficas](https://github.com/andolon/toques_rockola_central_vista/blob/master/graficas.png?raw=true)
 
 Requisitos:
 
